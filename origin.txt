@@ -1,0 +1,620 @@
+Uri: http://partner.mediumra.re/index.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\index.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/css/bootstrap.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\css\bootstrap.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/css/et-line.min.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\css\et-line.min.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/css/socicon.min.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\css\socicon.min.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/css/ionicons.min.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\css\ionicons.min.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/css/flexslider.min.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\css\flexslider.min.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/css/theme.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\css\theme.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/css/custom.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\css\custom.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/home-2.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\home-2.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/home-3.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\home-3.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/home-4.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\home-4.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/about.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\about.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/service-listing.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\service-listing.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/service-single.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\service-single.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/404.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\404.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/coming-soon.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\coming-soon.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/case-study-listing.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\case-study-listing.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/case-study-single.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\case-study-single.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/news-listing.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\news-listing.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/news-article.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\news-article.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/contact.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\contact.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/contact-book-consultation.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\contact-book-consultation.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-accordions.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-accordions.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-cta.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-cta.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-forms.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-forms.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-modals.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-modals.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-notifications.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-notifications.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-icon-features.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-icon-features.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-tiles.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-tiles.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-pricing.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-pricing.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-sliders.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-sliders.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-stats.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-stats.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-subscribe.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-subscribe.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-newsletters.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-newsletters.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-tabs.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-tabs.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-team.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-team.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-testimonials.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-testimonials.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/elements-typography.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\elements-typography.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/variant/builder.html
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\builder.html
+Content Type: text/html
+
+Uri: http://partner.mediumra.re/img/logo.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\logo.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/img/home1.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\home1.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/service1.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\service1.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/service2.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\service2.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/home2.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\home2.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/home3.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\home3.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/img/signature.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\signature.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/img/case-study-1.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\case-study-1.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/case-study-2.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\case-study-2.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/home4.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\home4.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/logo-small.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\logo-small.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/js/jquery-2.1.4.min.js
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\js\jquery-2.1.4.min.js
+Content Type: application/javascript
+
+Uri: http://partner.mediumra.re/js/flexslider.min.js
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\js\flexslider.min.js
+Content Type: application/javascript
+
+Uri: http://partner.mediumra.re/js/scripts.js
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://partner.mediumra.re/fonts/et-line.eot
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\fonts\et-line.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://partner.mediumra.re/fonts/et-line.eot?
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\fonts\et-line-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://partner.mediumra.re/fonts/et-line.woff
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\fonts\et-line.woff
+Content Type: application/font-woff
+
+Uri: http://partner.mediumra.re/fonts/et-line.ttf
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\fonts\et-line.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://partner.mediumra.re/fonts/et-line.svg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\fonts\et-line.svg
+Content Type: image/svg+xml
+
+Uri: http://partner.mediumra.re/fonts/socicon.eot
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\fonts\socicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://partner.mediumra.re/fonts/socicon.eot?
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\fonts\socicon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://partner.mediumra.re/fonts/socicon.woff
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\fonts\socicon.woff
+Content Type: application/font-woff
+
+Uri: http://partner.mediumra.re/fonts/socicon.woff2
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\fonts\socicon.bin
+Content Type: application/octet-stream
+
+Uri: http://partner.mediumra.re/fonts/socicon.ttf
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\fonts\socicon.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://partner.mediumra.re/fonts/socicon.svg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\fonts\socicon.svg
+Content Type: image/svg+xml
+
+Uri: http://partner.mediumra.re/fonts/ionicons.eot?v=2.0.0
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://partner.mediumra.re/fonts/ionicons.ttf?v=2.0.0
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\fonts\ionicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://partner.mediumra.re/fonts/ionicons.woff?v=2.0.0
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\fonts\ionicons.woff
+Content Type: application/font-woff
+
+Uri: http://partner.mediumra.re/fonts/ionicons.svg?v=2.0.0
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: http://partner.mediumra.re/img/home5.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\home5.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/case-study-4.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\case-study-4.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/partner1.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\partner1.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/img/partner4.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\partner4.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/img/partner2.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\partner2.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/img/partner3.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\partner3.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/img/avatar3.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\avatar3.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/ribbon.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\ribbon.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/img/home11.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\home11.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/home7.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\home7.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/home9.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\home9.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/home10.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\home10.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/home8.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\home8.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/avatar4.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\avatar4.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/home12.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\home12.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/about3.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\about3.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/team1.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\team1.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/team2.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\team2.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/team3.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\team3.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/team4.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\team4.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/team5.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\team5.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/about2.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\about2.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/service3.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\service3.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/service4.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\service4.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/service5.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\service5.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/service6.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\service6.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/case-study-3.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\case-study-3.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/article1.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\article1.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/contact1.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\contact1.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/home6.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\home6.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/old.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\old.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/form1.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\form1.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/form2.jpg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\form2.jpg
+Content Type: image/jpeg
+
+Uri: http://partner.mediumra.re/img/campaignmonitor.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\campaignmonitor.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/img/mailchimp.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\mailchimp.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/img/client1.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\client1.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/img/client2.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\client2.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/img/avatar1.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\avatar1.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/img/avatar2.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\img\avatar2.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/variant/css/variant-icons.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\css\variant-icons.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/variant/css/variant-social-icons.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\css\variant-social-icons.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/variant/css/normalize.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\css\normalize.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/variant/css/style.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\css\style.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/variant/theme/css/bootstrap.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\css\bootstrap.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/variant/theme/css/et-line.min.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\css\et-line.min.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/variant/theme/css/socicon.min.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\css\socicon.min.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/variant/theme/css/ionicons.min.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\css\ionicons.min.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/variant/theme/css/flexslider.min.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\css\flexslider.min.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/variant/theme/css/theme.css
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\css\theme.css
+Content Type: text/css
+
+Uri: http://partner.mediumra.re/variant/img/full-logo.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\img\full-logo.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/variant/img/mrare.png
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\img\mrare.png
+Content Type: image/png
+
+Uri: http://partner.mediumra.re/variant/js/jquery.js
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\js\jquery.js
+Content Type: application/javascript
+
+Uri: http://partner.mediumra.re/variant/theme/js/flexslider.min.js
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\js\flexslider.min.js
+Content Type: application/javascript
+
+Uri: http://partner.mediumra.re/variant/theme/js/scripts.js
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://partner.mediumra.re/variant/js/alterClass.js
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\js\alterClass.js
+Content Type: application/javascript
+
+Uri: http://partner.mediumra.re/variant/js/jquery-ui-1.10.4.custom.min.js
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\js\jquery-ui-1.10.4.custom.min.js
+Content Type: application/javascript
+
+Uri: http://partner.mediumra.re/variant/js/storage2.js
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\js\storage2.js
+Content Type: application/javascript
+
+Uri: http://partner.mediumra.re/variant/js/simpleModal.js
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\js\simpleModal.js
+Content Type: application/javascript
+
+Uri: http://partner.mediumra.re/variant/js/jsZip.js
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\js\jsZip.js
+Content Type: application/javascript
+
+Uri: http://partner.mediumra.re/variant/js/saveAs.js
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\js\saveAs.js
+Content Type: application/javascript
+
+Uri: http://partner.mediumra.re/variant/js/init.js
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\js\init.js
+Content Type: application/javascript
+
+Uri: http://partner.mediumra.re/variant/fonts/variant-icons.eot
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\fonts\variant-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://partner.mediumra.re/variant/fonts/variant-icons.otf
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\fonts\variant-icons.otf
+Content Type: font/opentype
+
+Uri: http://partner.mediumra.re/variant/fonts/variant-icons.eot?
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\fonts\variant-icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://partner.mediumra.re/variant/fonts/variant-icons.woff
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\fonts\variant-icons.woff
+Content Type: application/font-woff
+
+Uri: http://partner.mediumra.re/variant/fonts/variant-icons.ttf
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\fonts\variant-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://partner.mediumra.re/variant/fonts/variant-icons.svg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\fonts\variant-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://partner.mediumra.re/variant/fonts/variant-social.eot
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\fonts\variant-social.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://partner.mediumra.re/variant/fonts/variant-social.eot?
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\fonts\variant-social-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://partner.mediumra.re/variant/fonts/variant-social.woff
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\fonts\variant-social.woff
+Content Type: application/font-woff
+
+Uri: http://partner.mediumra.re/variant/fonts/variant-social.ttf
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\fonts\variant-social.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://partner.mediumra.re/variant/fonts/variant-social.svg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\fonts\variant-social.svg
+Content Type: image/svg+xml
+
+Uri: http://partner.mediumra.re/variant/theme/fonts/et-line.eot
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\fonts\et-line.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://partner.mediumra.re/variant/theme/fonts/et-line.eot?
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\fonts\et-line-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://partner.mediumra.re/variant/theme/fonts/et-line.woff
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\fonts\et-line.woff
+Content Type: application/font-woff
+
+Uri: http://partner.mediumra.re/variant/theme/fonts/et-line.ttf
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\fonts\et-line.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://partner.mediumra.re/variant/theme/fonts/et-line.svg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\fonts\et-line.svg
+Content Type: image/svg+xml
+
+Uri: http://partner.mediumra.re/variant/theme/fonts/socicon.eot
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\fonts\socicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://partner.mediumra.re/variant/theme/fonts/socicon.eot?
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\fonts\socicon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://partner.mediumra.re/variant/theme/fonts/socicon.woff
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\fonts\socicon.woff
+Content Type: application/font-woff
+
+Uri: http://partner.mediumra.re/variant/theme/fonts/socicon.woff2
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\fonts\socicon.bin
+Content Type: application/octet-stream
+
+Uri: http://partner.mediumra.re/variant/theme/fonts/socicon.ttf
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\fonts\socicon.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://partner.mediumra.re/variant/theme/fonts/socicon.svg
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\fonts\socicon.svg
+Content Type: image/svg+xml
+
+Uri: http://partner.mediumra.re/variant/theme/fonts/ionicons.eot?v=2.0.0
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://partner.mediumra.re/variant/theme/fonts/ionicons.ttf?v=2.0.0
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\fonts\ionicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://partner.mediumra.re/variant/theme/fonts/ionicons.woff?v=2.0.0
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\fonts\ionicons.woff
+Content Type: application/font-woff
+
+Uri: http://partner.mediumra.re/variant/theme/fonts/ionicons.svg?v=2.0.0
+File Name: c:\Downloaded Web Sites\partner.mediumra.re\variant\theme\fonts\ionicons.svg
+Content Type: image/svg+xml
+
